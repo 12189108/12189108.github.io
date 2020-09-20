@@ -4,5 +4,6 @@
 #checked{  color:#aaa;}
 #into{  text-align:center;  color:#6596E1;}
 #user{  color:#6980E3;  text-decoration:none;}
-#copyright{  color:#B4B6D2;}
+#copyright{  color:#B4B6D2;position:fixed;bottom:0;}
 #share{  color:#6980E3;}
+#block{position:fixed;bottom:16px;left:0;}
